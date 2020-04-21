@@ -13,8 +13,8 @@ class CashRegister
   def add_item(item, price)
     @total + price = new_total
     @total = new_total
-    
-  end 
-  
+
+  end
+
 
 end
