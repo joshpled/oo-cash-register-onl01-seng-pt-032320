@@ -10,6 +10,6 @@ class CashRegister
     @discount
   end
 
-  def 
+  def
 
 end
